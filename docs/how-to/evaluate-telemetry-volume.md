@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # How to evaluate the telemetry volume your workloads generate
 
 The [resource requirements] for COS depend on the ingestion rate of telemetry.

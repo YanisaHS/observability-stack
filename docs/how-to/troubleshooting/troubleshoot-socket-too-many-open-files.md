@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Troubleshooting ``socket: too many open files``
 
 When deploying the Grafana Agent or Prometheus charms in large environments, 

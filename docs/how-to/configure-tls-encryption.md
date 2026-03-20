@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # TLS encryption in COS
 
 Both COS and COS Lite, have 2 sections of the deployment (internal and external) which can implement TLS communication.

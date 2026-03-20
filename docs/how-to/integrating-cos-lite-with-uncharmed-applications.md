@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Integrating COS Lite with uncharmed applications
 
 The [COS Lite bundle](https://github.com/canonical/cos-lite-bundle) is designed to 

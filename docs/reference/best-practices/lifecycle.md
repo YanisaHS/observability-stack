@@ -1,3 +1,7 @@
+```{tags}
+reference
+```
+
 # Lifecycle Best Practices
 
 ## Support window

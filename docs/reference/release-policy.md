@@ -1,3 +1,7 @@
+```{tags}
+reference
+```
+
 # Release policy
 
 Our release policy includes two kinds of releases, short-term releases and long-term support (LTS) releases.

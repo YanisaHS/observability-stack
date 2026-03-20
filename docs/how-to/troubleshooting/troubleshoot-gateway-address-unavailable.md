@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Troubleshooting `Gateway address unavailable`
 
 Whenever Traefik is used to ingress your Kubernetes workloads, you might in some specific

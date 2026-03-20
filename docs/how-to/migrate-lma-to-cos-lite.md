@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Migrate from LMA to COS Lite
 
 COS Lite is not a new version of LMA, but a completely new product that draws upon the lessons learned from LMA to create a heavily integrated,

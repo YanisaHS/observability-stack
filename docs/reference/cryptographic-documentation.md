@@ -1,3 +1,7 @@
+```{tags}
+reference
+```
+
 # Cryptographic Documentation
 
 ## COS Lite

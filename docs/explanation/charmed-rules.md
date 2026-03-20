@@ -1,3 +1,7 @@
+```{tags}
+explanation
+```
+
 # Charmed alert rules
 
 ## What are alert rules?

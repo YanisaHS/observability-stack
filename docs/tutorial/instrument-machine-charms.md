@@ -1,3 +1,7 @@
+```{tags}
+tutorial
+```
+
 # Instrumenting machine charms
 
 ## Prerequisites

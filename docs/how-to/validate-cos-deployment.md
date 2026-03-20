@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Validate COS deployment
 
 ## Juju model

@@ -1,3 +1,7 @@
+```{tags}
+explanation
+```
+
 # Logging Architecture
 
 In COS, Grafana Loki is the storage and querying backend for logs. Loki is optimized for write performance (ingestion speed), at the cost of slower random reads. This means that filtering structured logs by labels is fast, but full-text search is slower.

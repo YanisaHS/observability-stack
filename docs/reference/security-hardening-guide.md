@@ -1,3 +1,7 @@
+```{tags}
+reference
+```
+
 # Security Hardening Guide
 
 This page is an overview of how to configure COS securely.  While COS is designed with security in mind, some steps are required to ensure your COS is deployed and configured to ensure proper security.

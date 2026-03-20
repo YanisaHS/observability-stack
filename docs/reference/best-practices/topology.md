@@ -1,3 +1,7 @@
+```{tags}
+reference
+```
+
 # Deployment Topology Best Practices
 
 ## Deploy in isolation

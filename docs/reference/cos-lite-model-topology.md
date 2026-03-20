@@ -1,3 +1,7 @@
+```{tags}
+reference
+```
+
 # Model Topology for COS Lite
 
 COS Lite consists of a number of charms connected by Juju relations.

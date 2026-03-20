@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Troubleshoot firing alert rules
 This guide describes how to troubleshoot firing generic alert rules. For detailed explanations on the design and goals of these rules, refer to the [explanation page](/explanation/generic-rules).
 

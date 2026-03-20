@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Tier OpenTelemetry Collector with different pipelines per data stream
 
 By design, [charmed OpenTelemetry Collector](https://charmhub.io/opentelemetry-collector-k8s) (otelcol) forwards all receivers to all exporters.

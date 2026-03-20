@@ -1,3 +1,7 @@
+```{tags}
+tutorial
+```
+
 # Redact sensitive data
 
 ## Introduction

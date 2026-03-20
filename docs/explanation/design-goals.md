@@ -1,3 +1,7 @@
+```{tags}
+explanation
+```
+
 # Design Goals
 
 ## Why a new stack?

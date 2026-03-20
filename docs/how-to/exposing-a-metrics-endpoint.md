@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Exposing a Metrics Endpoint
 
 Integrating with the metrics endpoint interface allows you to, through a minimal 

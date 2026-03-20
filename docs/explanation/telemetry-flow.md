@@ -1,3 +1,7 @@
+```{tags}
+explanation
+```
+
 # Telemetry Flow
 
 ## COS Lite

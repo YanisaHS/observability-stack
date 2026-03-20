@@ -1,3 +1,7 @@
+```{tags}
+reference
+```
+
 # Rock OCI Images
 
 | Image                              | Registry                                                                  | Source Code                                                           | Bug Report                                                                   |

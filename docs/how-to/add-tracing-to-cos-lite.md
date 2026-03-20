@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Add tracing to COS Lite
 
 If you have an existing COS Lite deployment and you wish to add tracing 

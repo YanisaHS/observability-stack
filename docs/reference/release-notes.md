@@ -1,3 +1,7 @@
+```{tags}
+reference
+```
+
 # COS 2 release notes
 October 2025
 

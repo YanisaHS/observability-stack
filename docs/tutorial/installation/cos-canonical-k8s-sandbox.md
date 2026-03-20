@@ -1,3 +1,7 @@
+```{tags}
+tutorial
+```
+
 # Getting started with COS on Canonical K8s
 
 In this tutorial you deploy a single-node, multi-unit COS, backed by S3 storage.

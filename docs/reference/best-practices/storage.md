@@ -1,3 +1,7 @@
+```{tags}
+reference
+```
+
 # Storage Best Practices
 
 ## Evaluate storage volume needs

@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Adding alert rules
 
 Support for providing alert rules through the relation is available

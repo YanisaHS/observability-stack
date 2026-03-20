@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Upgrade instructions
 
 ## COS 2

@@ -1,3 +1,7 @@
+```{tags}
+explanation
+```
+
 # Stack variants
 
 ## Quick comparison

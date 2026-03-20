@@ -1,3 +1,7 @@
+```{tags}
+reference
+```
+
 # Charms
 
 ## COS

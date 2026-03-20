@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Deploy Minio and S3 Integrator
 
 ```{warning}

@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Disable built-in charm alert rules
 
 By default, Prometheus and Loki will be configured to evaluate and post alerts for all the

@@ -1,3 +1,7 @@
+```{tags}
+explanation
+```
+
 # Telemetry correlation: traces, metrics and logs
 
 This explanation describes what telemetry correlation is, why it matters, and how the COS stack and associated charms enable and use correlation between traces, metrics and logs. It provides examples for common components (OpenTelemetry Collector, Prometheus/Mimir exemplars).

@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Troubleshoot `no data` in Grafana panels
 
 Data in Grafana panels is obtained by querying datasources.

@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Troubleshoot OpenTelemetry Collector
 
 ## High resource usage

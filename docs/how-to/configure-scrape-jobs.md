@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Configure Prometheus scrape jobs
 
 By default, the Prometheus charm allows for minimal configuration of the 

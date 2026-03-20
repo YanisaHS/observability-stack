@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Troubleshooting integrations
 
 Integrating a charm with [COS](https://charmhub.io/topics/canonical-observability-stack) means:

@@ -1,3 +1,7 @@
+```{tags}
+tutorial
+```
+
 # Getting started with COS Lite on Canonical K8s
 
 In this tutorial you deploy a single-node COS Lite appliance, backed by hostPath storage.

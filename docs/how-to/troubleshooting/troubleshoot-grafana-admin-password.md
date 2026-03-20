@@ -1,3 +1,7 @@
+```{tags}
+how-to
+```
+
 # Troubleshoot grafana admin password
 
 Compare the output of:

@@ -1,3 +1,7 @@
+```{tags}
+reference
+```
+
 # Snaps
 
 | Image                   | Snapcraft Store                                       | Source Code                                                         | Bug Report                                                                 |
