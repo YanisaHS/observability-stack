@@ -203,9 +203,7 @@ templates_path = [
 # NOTE: If undefined, set to None, or empty,
 #       the sphinx_reredirects extension will be disabled.
 
-redirects = {
-    "install": "../tutorial/installation"
-}
+redirects = {}
 
 
 ###########################

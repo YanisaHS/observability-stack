@@ -14,10 +14,12 @@ For Site Reliability Engineers, COS provides a turn-key, out-of-the-box solution
    :maxdepth: 1
    :hidden:
 
-   tutorial/index
-   how-to/index
-   reference/index
-   explanation/index
+   what-is-cos/index
+   install/index
+   upgrade/index
+   artifacts/index
+   data-migration/index
+   charm-specific/index
    _tags/tagsindex
 
 
