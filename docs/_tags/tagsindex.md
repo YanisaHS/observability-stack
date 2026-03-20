@@ -5,6 +5,6 @@
 ```{toctree}
 ---
 caption: Tags
-maxdepth: 1
+maxdepth: 4
 ---
 ```
